@@ -1,0 +1,9 @@
+C:\Users\Вадим\Documents\MEGA\MEGAsync\Projects\SeamBlockModel\SeamBlockModel\bin\Debug\SeamBlockModel.exe.config
+C:\Users\Вадим\Documents\MEGA\MEGAsync\Projects\SeamBlockModel\SeamBlockModel\bin\Debug\SeamBlockModel.exe
+C:\Users\Вадим\Documents\MEGA\MEGAsync\Projects\SeamBlockModel\SeamBlockModel\bin\Debug\SeamBlockModel.pdb
+C:\Users\Вадим\Documents\MEGA\MEGAsync\Projects\SeamBlockModel\SeamBlockModel\obj\Debug\SeamBlockModel.csproj.AssemblyReference.cache
+C:\Users\Вадим\Documents\MEGA\MEGAsync\Projects\SeamBlockModel\SeamBlockModel\obj\Debug\SeamBlockModel.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\Documents\MEGA\MEGAsync\Projects\SeamBlockModel\SeamBlockModel\obj\Debug\SeamBlockModel.exe
+C:\Users\Вадим\Documents\MEGA\MEGAsync\Projects\SeamBlockModel\SeamBlockModel\obj\Debug\SeamBlockModel.pdb
+C:\Users\Вадим\Documents\MEGA\MEGAsync\Projects\SeamBlockModel\SeamBlockModel\bin\Debug\Science.dll
+C:\Users\Вадим\Documents\MEGA\MEGAsync\Projects\SeamBlockModel\SeamBlockModel\obj\Debug\SeamBlockModel.csproj.CopyComplete
